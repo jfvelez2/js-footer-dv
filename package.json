@@ -1,0 +1,25 @@
+{
+  "name": "js-footer-dv",
+  "version": "0.1.1",
+  "description": "This module allows for a dynamic footer to be generated for JS applications with an updated year and nname",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfvelez2/js-footer-dv.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "jfvelez (https://www.npmjs.com/~jfvelez)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jfvelez2/js-footer-dv/issues"
+  },
+  "homepage": "https://github.com/jfvelez2/js-footer-dv#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
